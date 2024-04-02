@@ -25,8 +25,9 @@ Before diving into the exploration of servers, APIs, and endpoints, ensure you h
 sudo apt-get install npm 
 ```  
 on unix-like systems also on `Windows poweshell`
-- `npm install express`
-
+```bash
+npm install express
+```
 
 
 ## How to contribute
