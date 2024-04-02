@@ -1,0 +1,23 @@
+{
+  "name": "restful_api",
+  "version": "1.0.0",
+  "description": "Learning how to use APIs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ndevu12/LEARN_RESTFUL_API.git"
+  },
+  "author": "Ndevu12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ndevu12/LEARN_RESTFUL_API/issues"
+  },
+  "homepage": "https://github.com/Ndevu12/LEARN_RESTFUL_API#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
